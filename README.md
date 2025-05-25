@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 - 😊 I'm like learning **Russian** language
 - 🌱 I’m currently learning [**laravel**](https://laravel.com) framework
+    👩‍💻🔥🔥🔥
 
 ![i'm bussy](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWVxamJ2amhpZXE3ZWtrbG96cHUwcmJqanJvcnI1dG1mN2h1NWI1dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohhwhQt5jKqjIU5Es/giphy.gif)
 
